@@ -7,8 +7,11 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@hookform/resolvers": "^2.8.2",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "react-hook-form": "^7.17.2",
+    "yup": "^0.32.9"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
